@@ -1,49 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T01:33:12.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="V1E6pp9jf83wbkQDFrdB" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-15T04:53:47.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="zP-DlfnNma5_WZbgQtEW" version="20.5.3" type="github">
   <diagram id="jNQJjzbc73Ah8bror58Y" name="第 1 页">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wPRj64X3zeDcSEMi4jUd-1" value="PUF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;container=0;" parent="1" vertex="1">
+        <mxCell id="wPRj64X3zeDcSEMi4jUd-1" value="PUF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;container=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="130" width="113.10344827586206" height="489.9999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="wPRj64X3zeDcSEMi4jUd-2" value="模糊保险箱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;container=0;" parent="1" vertex="1">
+        <mxCell id="wPRj64X3zeDcSEMi4jUd-2" value="模糊保险箱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;container=0;" parent="1" vertex="1">
           <mxGeometry x="802.7586206896552" y="130" width="127.24137931034483" height="489.9999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="wPRj64X3zeDcSEMi4jUd-3" value="物理不可克隆——抵抗侵入式物理攻击" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f8cecc;strokeColor=#b85450;container=0;" parent="1" vertex="1">
-          <mxGeometry x="223.10344827586206" y="130" width="339.31034482758616" height="97.99999999999999" as="geometry" />
+        <mxCell id="wPRj64X3zeDcSEMi4jUd-3" value="物理不可克隆——抵抗侵入式物理攻击" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;container=0;" parent="1" vertex="1">
+          <mxGeometry x="223.1" y="130" width="376.9" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="wPRj64X3zeDcSEMi4jUd-4" value="指纹易被物理克隆" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="1" vertex="1">
-          <mxGeometry x="562.4137931034483" y="130" width="240.3448275862069" height="97.99999999999999" as="geometry" />
+        <mxCell id="wPRj64X3zeDcSEMi4jUd-4" value="指纹易被物理克隆" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="130" width="202.76" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="27-0YUae8-brwZVTihVv-8" value="" style="group;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="1" vertex="1" connectable="0">
+        <mxCell id="27-0YUae8-brwZVTihVv-8" value="" style="group;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="223.10344827586206" y="424" width="579.655172413793" height="97.99999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="27-0YUae8-brwZVTihVv-9" value="" style="group;fontSize=19;fillColor=#f8cecc;strokeColor=#b85450;container=0;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="223.10344827586206" y="326" width="579.655172413793" height="97.99999999999999" as="geometry" />
+        <mxCell id="27-0YUae8-brwZVTihVv-10" value="安全性有上限" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="228" width="202.76" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="27-0YUae8-brwZVTihVv-10" value="安全性有上限" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="1" vertex="1">
-          <mxGeometry x="562.4137931034483" y="228" width="240.3448275862069" height="97.99999999999999" as="geometry" />
+        <mxCell id="27-0YUae8-brwZVTihVv-11" value="安全性巨大提升" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;container=0;" parent="1" vertex="1">
+          <mxGeometry x="223.1" y="228" width="376.9" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="27-0YUae8-brwZVTihVv-11" value="安全性巨大提升" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f8cecc;strokeColor=#b85450;container=0;" parent="1" vertex="1">
-          <mxGeometry x="223.10344827586206" y="228" width="339.31034482758616" height="97.99999999999999" as="geometry" />
-        </mxCell>
-        <mxCell id="M-TaUisUbrAOwJS-eMyD-1" value="可能出现位翻转" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="1" vertex="1">
+        <mxCell id="M-TaUisUbrAOwJS-eMyD-1" value="可能出现位翻转" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="1" vertex="1">
           <mxGeometry x="223.10344827586206" y="522" width="183.79310344827584" height="97.99999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="M-TaUisUbrAOwJS-eMyD-2" value="具有一定的模糊提取特性" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f8cecc;strokeColor=#b85450;container=0;" parent="1" vertex="1">
+        <mxCell id="M-TaUisUbrAOwJS-eMyD-2" value="具有一定的模糊提取特性" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;container=0;" parent="1" vertex="1">
           <mxGeometry x="406.8965517241379" y="522" width="395.86206896551727" height="97.99999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="27-0YUae8-brwZVTihVv-6" value="图像处理模块增加了开销" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="1" vertex="1">
-          <mxGeometry x="562.4137931034483" y="326" width="240.3448275862069" height="97.99999999999999" as="geometry" />
+        <mxCell id="27-0YUae8-brwZVTihVv-6" value="图像处理增加开销" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="326" width="202.76" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="27-0YUae8-brwZVTihVv-7" value="通过电路固有产生，开销低" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f8cecc;strokeColor=#b85450;container=0;" parent="1" vertex="1">
-          <mxGeometry x="223.10344827586206" y="326" width="339.31034482758616" height="97.99999999999999" as="geometry" />
+        <mxCell id="27-0YUae8-brwZVTihVv-7" value="通过电路固有产生，开销低" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;container=0;" parent="1" vertex="1">
+          <mxGeometry x="223.1" y="326" width="376.9" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="27-0YUae8-brwZVTihVv-4" value="密钥来自随机响应" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="1" vertex="1">
+        <mxCell id="27-0YUae8-brwZVTihVv-4" value="密钥来自随机响应" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="1" vertex="1">
           <mxGeometry x="223.10344827586206" y="424" width="183.79310344827584" height="97.99999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="27-0YUae8-brwZVTihVv-5" value="可以自设密钥，利于广泛使用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f8cecc;strokeColor=#b85450;container=0;" parent="1" vertex="1">
+        <mxCell id="27-0YUae8-brwZVTihVv-5" value="可以自设密钥，利于广泛使用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;container=0;" parent="1" vertex="1">
           <mxGeometry x="406.8965517241379" y="424" width="395.86206896551727" height="97.99999999999999" as="geometry" />
         </mxCell>
       </root>
